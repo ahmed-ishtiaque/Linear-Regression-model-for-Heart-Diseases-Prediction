@@ -1,2 +1,2 @@
-# ishtiaque-world
-ishtiaque's first repository
+Linear Regression model for Heart Diseases Prediction
+
